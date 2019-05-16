@@ -1,10 +1,10 @@
 {
-  "name": "homebridge-nest",
-  "description": "Nest plugin for homebridge",
+  "name": "homebridge-nest-cameraswitch",
+  "description": "Nest plugin for homebridge with camera switches",
   "version": "2.1.4",
   "repository": {
     "type": "git",
-    "url": "git://github.com/chrisjshull/homebridge-nest.git"
+    "url": "git://github.com/rchang05/homebridge-nest-cameraswitch.git"
   },
   "scripts": {
     "lint": "eslint lib *.js",
