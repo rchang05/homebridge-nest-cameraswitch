@@ -3,6 +3,10 @@ Nest plugin for [HomeBridge](https://github.com/nfarina/homebridge)
 
 This repository contains the Nest plugin for homebridge that was previously bundled in the main `homebridge` repository.
 
+# Disclaimer
+
+This fork exposes Nest cam streaming status as a switch in HomeKit. Credit: https://github.com/KraigM/homebridge-nest/pull/111
+
 # Installation
 
 1. Install homebridge using: `npm install -g homebridge`
